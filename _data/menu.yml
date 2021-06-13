@@ -5,17 +5,21 @@ entries:
         url: fav_albums
       - title: recommendations
         url: album_recs
-  - title: teaching
+  - title: school stuff
     entries:
-      - title: experiences
-        url: teaching_experiences
+      - title: i <a href="teaching_experiences">teach</a> a lot
+      - title: coursework
+        url: coursework
       - title: resources
         entries:
           - title: <a href="cs70">CS 70</a> - Discrete Math and Probability Theory
-          - title: <a href="cs70">CS 170</a> - Efficient Algorithms and Intractable Problems
+          - title: <a href="cs170">CS 170</a> - Efficient Algorithms and Intractable Problems
             url: cs170
+          - title: Math 110 - (Upper Division) Linear Algebra <a href="files/110_Review_Sheet.pdf">Notes</a>
   - title: links 
     entries:
       - title: "微信公众号: jigsawfallingintoplace"
       - title: "github"
         url: https://github.com/tc-liu
+      - title: a <a href="poem">poem</a> in chinese
+      - title: "\"what is he doing?\" \"he's <a href=\"https://youtu.be/buoMlAshKXQ\">beginning</a> to <a href=\"https://youtu.be/wgVOgGLtPtc\">believe</a>.\""

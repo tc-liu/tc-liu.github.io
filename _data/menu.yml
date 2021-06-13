@@ -11,8 +11,8 @@ entries:
         url: teaching_experiences
       - title: resources
         entries:
-          - title: <a href="cs70">CS 70</a> - Discreet Math and Probability Theory
-          - title: <a href="cs170">CS 170</a> - Efficient Algorithms and Intractable Problems
+          - title: <a href="cs70">CS 70</a> - Discrete Math and Probability Theory
+          - title: <a href="cs70">CS 170</a> - Efficient Algorithms and Intractable Problems
             url: cs170
   - title: links 
     entries:

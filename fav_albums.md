@@ -8,7 +8,7 @@ Greetings! Here are some of my all time favorite albums in alphabetical order. F
 - **Joey Bada$$** - *1999*
 - **Beach House** - *Teen Dream / Bloom*
 - **The Beatles** - *Revolver*
-- **David Bowie** - *Ziggy Stardust*
+- **David Bowie** - *The Rise and Fall of Ziggy Stardust and the Spiders from Mars*
 - **Car Seat Headrest** - *Twin Fantasy / Teens of Denial*
     - man, these two albums were my soundtrack for 12th grade, the grade where we did nothing but prepare for the national college entrance exam. i still remember screaming "I, DON'T, WANT, TO, GO, IN, SANNNNNEEEEEEE" with a friend during class breaks when nobody's around or "IT DOESN'T HAVE TO BE LIKE THIS" in 10pm when school (finally) ends.
 - **Coldplay** - *Parachutes*
@@ -25,6 +25,7 @@ Greetings! Here are some of my all time favorite albums in alphabetical order. F
 - **Godspeed You! Black Emperor!** - *Allelujah! Don't Bend! Ascend!* / all LPs and EPs prior to and including *Lift Your Skinny Fists Like Antennas to Heaven*
 - **Herbie Hancock** - *Head Hunters*
 - **Joy Division** - *Unknown Pleasures*
+    - often imitated, never duplicated
 - **Lianne La Havas** - *Blood*
 - **LCD Soundsystem** - *Sound of Silver*
     - world peace can be achieved if aliens just blast this album from the sky from front to back and every human on earth just stop whatever they're doing and dance to this album

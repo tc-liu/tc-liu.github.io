@@ -8,8 +8,7 @@ entries:
   - title: school stuff
     entries:
       - title: i <a href="teaching_experiences">teach</a> a lot
-      - title: coursework
-        url: coursework
+      - title: <a href="coursework">coursework</a>, feel free to chat about any of them
       - title: resources
         entries:
           - title: <a href="cs70">CS 70</a> - Discrete Math and Probability Theory

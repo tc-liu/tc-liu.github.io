@@ -3,7 +3,7 @@ layout: page
 title: Album Recommendations
 ---
 
-Greetings! Here are some albums I really, really enjoy vaguely catagorized by genres. Feel free to hop on to the [all time favs](fav_albums) page to check out some of my absolute favorites. Note that I want to avoid some household-name-level classics that everybody knows and loves like the Beatles, MJ，*Purple Rain*, etc., because this is a list of *recommendation*. Each decade / genre is in alphabetical order.
+Greetings! Here are some albums I really, really enjoy vaguely catagorized by genres. Feel free to hop on to the [all time favs](fav_albums) page to check out some of my absolute favorites. Note that I want to avoid some household-name-level classics that everybody knows and loves like the Beatles, MJ，*Purple Rain*, etc., since this serves as a list of *recommendations*. Albums in each decade / genre are in alphabetical order.
 
 ## Rock
 

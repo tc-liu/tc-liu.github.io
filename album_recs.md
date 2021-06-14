@@ -14,7 +14,7 @@ I can't really give any insightful recommendations here, my favorites are just t
 - Can - Ege Bamyasi
 - Bob Dylan - Blood on the Tracks
 - Led Zeppelin - Led Zeppelin IV
-- Pink Floyd - Animals
+- Pink Floyd - Animals / Meddle
 
 ### 80s
 - Prince & Michael Jackson
@@ -92,6 +92,9 @@ I can't really give any insightful recommendations here, my favorites are just t
 - Kanye West - Complete discography (maybe except 808s and Heartbreaks)
 
 ## Jazz
-- John Coltrane - Blue Train / A Love Supreme
+- John Coltrane - Blue Train / Giant Steps / A Love Supreme
 - Miles Davis - In a Silent Way
+- Stan Getz - Getz/Giberto
 - Charles Mingus - Mingus Ah Um
+- Lee Morgan - The 
+- Kamasi Washington - The Epic / Harmony of Difference

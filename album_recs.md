@@ -3,8 +3,6 @@ layout: page
 title: Album Recommendations
 ---
 
-# This page is a work in progress.
-
 Greetings! Here are some albums I really, really enjoy vaguely catagorized by genres. Feel free to hop on to the [all time favs](fav_albums) page to check out some of my absolute favorites. Note that I want to avoid some household-name-level classics that everybody knows and loves like the Beatles, MJ，*Purple Rain*, etc., because this is a list of *recommendation*. Each decade / genre is in alphabetical order.
 
 ## Rock

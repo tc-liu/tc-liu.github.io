@@ -96,5 +96,5 @@ I can't really give any insightful recommendations here, my favorites are just t
 - Miles Davis - In a Silent Way
 - Stan Getz - Getz/Giberto
 - Charles Mingus - Mingus Ah Um
-- Lee Morgan - The 
+- Lee Morgan - The Sidewinder
 - Kamasi Washington - The Epic / Harmony of Difference

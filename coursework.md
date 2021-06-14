@@ -2,9 +2,7 @@
 layout: page
 title: Coursework
 ---
-
-4.0 GPA. 
-
+  
 - Spring 2021
     - CS 171: Cryptography
     - CS 172: Computability and Complexity

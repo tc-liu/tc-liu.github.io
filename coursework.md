@@ -18,7 +18,7 @@ title: Coursework
 - Spring 2020
     - CS 61B: Data Structures
     - CS 70: Discrete Math and Probability Theory
-    - Math 110: (Uppder Division) Linear Algebra
+    - Math 110: (Upper Division) Linear Algebra
 
 - Fall 2019
     - CS 61A: Structure and Interpretation of Computer Programs

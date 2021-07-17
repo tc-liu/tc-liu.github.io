@@ -43,6 +43,7 @@ I can't really give any insightful recommendations here, my favorites are just t
 - Sufjan Stevens - Illinois
 - Vampire Weekend - Vampire Weekend
 - 五条人 - 县城记
+- 张楚 - 孤独的人是可耻的
 
 ### 10s
 - Arcade Fire - The Suburbs / Reflektor
@@ -65,7 +66,6 @@ I can't really give any insightful recommendations here, my favorites are just t
 - Swans - To Be Kind
 - U.S. Girls - In a Poem Unlimited
 - 五条人 - 广东姑娘
-- 张楚 - 孤独的人是可耻的
 
 ## Electronic
 - Animal Collective - Strawberry Jam

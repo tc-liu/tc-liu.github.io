@@ -9,12 +9,16 @@ entries:
     entries:
       - title: i <a href="teaching_experiences">teach</a> a lot
       - title: <a href="coursework">coursework</a>
-      - title: resources
+      - title: course resources
         entries:
           - title: <a href="cs70">CS 70</a> - Discrete Math and Probability Theory
           - title: <a href="cs170">CS 170</a> - Efficient Algorithms and Intractable Problems
             url: cs170
           - title: Math 110 - (Upper Division) Linear Algebra <a href="files/110_Review_Sheet.pdf">Notes</a>
+      - title: UGTCS Sp22 Special Topics in Cryptography reading group
+        url: sp22_topics_in_crypto
+  # - title: i was there
+    # url: iwasthere
   - title: links 
     entries:
       - title: "微信公众号: jigsawfallingintoplace"

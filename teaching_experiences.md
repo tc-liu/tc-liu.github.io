@@ -4,7 +4,7 @@ title: Teaching Experiences
 ---
 
 - [CS 170](http://www.cs170.org): Efficient Algorithms and Intractable Problems
-    - Head Teaching Assistant, Fall 2021
+    - Head Teaching Assistant, Spring 2022, Fall 2021
     - Teaching Assistant, Spring 2021
 - [CS 70](http://www.eecs70.org): Discrete Math and Probability Theory
     - Head Teaching Assistant, Summer 2021

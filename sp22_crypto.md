@@ -24,8 +24,10 @@ Each week's content will be based on Section 5-12 of [CS 161's textbook](https:/
 
 Our main references are the readings listed on Stanford CS 355's syllabus. Additional resources that I find helpful/fun (this will be continuously updated):
 
+- Past offerings of Stanford CS 355. Just change the url on their website.
 - [Lectures](https://www.youtube.com/channel/UCH_TKbymPv-9NdCIroUSBiA/videos) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf) by [Vipul Goyal](https://www.cs.cmu.edu/~goyal/)
-- Thaler's [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
+- Henry Corrigan-Gibb's [class on Cryptosystems](https://6893.csail.mit.edu/)
+- Justin Thaler's [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 
 Fun stuff in Stanford CS 355 that are left out (can talk about if we have time)
 - OWF => PRG => PRF => PRP => Block Cipher

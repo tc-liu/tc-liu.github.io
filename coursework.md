@@ -2,6 +2,16 @@
 layout: page
 title: Coursework
 ---
+
+- Spring 2022
+    - CS 162: Operating Systems and Systems Programming
+    - CS 194 Special Topics
+    - Econ 2: Intro to Economics
+
+- Fall 2021
+    - CS 161: Computer Security
+    - CS 194 Special Topics
+    - EECS 16B: Designing Information Devices and Systems II
   
 - Spring 2021
     - CS 171: Cryptography

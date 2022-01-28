@@ -3,7 +3,7 @@ layout: page
 title: UGTCS Sp22 Special Topics in Cryptography reading group
 ---
 
-The reading group will follow an abridged version of offering of Stanford [CS 355](https://crypto.stanford.edu/cs355/21sp/schedule/) Sp21.
+The reading group will follow an abridged version of Stanford [CS 355](https://crypto.stanford.edu/cs355/21sp/schedule/) Sp21.
 
 Syllabus:
 

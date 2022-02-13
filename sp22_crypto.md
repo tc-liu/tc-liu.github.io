@@ -26,8 +26,9 @@ Our main references are the readings listed on Stanford CS 355's syllabus. Addit
 
 - Past offerings of Stanford CS 355. Just change the url on their website.
 - [Lectures](https://www.youtube.com/channel/UCH_TKbymPv-9NdCIroUSBiA/videos) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf) by [Vipul Goyal](https://www.cs.cmu.edu/~goyal/)
+- Dan Boneh's [book](http://toc.cryptobook.us/)
 - Henry Corrigan-Gibb's [class on Cryptosystems](https://6893.csail.mit.edu/)
-- Justin Thaler's [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
+- Justin Thaler's [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html) on proof systems
 
 Fun stuff in Stanford CS 355 that are left out (can talk about if we have time)
 - OWF => PRG => PRF => PRP => Block Cipher

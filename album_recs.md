@@ -67,12 +67,17 @@ I can't really give any insightful recommendations here, my favorites are just t
 - U.S. Girls - In a Poem Unlimited
 - 五条人 - 广东姑娘
 
+###
+- Black Country, New Road - For the first time / Ants From Up There
+
 ## Electronic
 - Animal Collective - Strawberry Jam
 - Jamie xx - In Colours
 
 ## Pop/R&B
+- Camila Cabello - Familia
 - Ariana Grande - My Everything
+- SZA - CTRL
 - Kali Uchis - Isolation
 - The Weeknd - Beauty Behind the Madness
 - Amy Winehouse - Back to Black
@@ -87,8 +92,10 @@ I can't really give any insightful recommendations here, my favorites are just t
 - Isaiah Rashad - The Sun's Tirade
 - Run the Jewels - Run the Jewels 2
 - Travis Scott - Rodeo
-- A Tribe Called Quest - We Got It from Here... Thank You 4 Your Service
+- Vince Staples - Big Fish Theory
 - Earl Sweatshirt - Doris / I Don't Like Shit, I Don't Go Outside
+- A Tribe Called Quest - We Got It from Here... Thank You 4 Your Service
+- Tyler, the Creator - Flower Boy
 - Kanye West - Complete discography (maybe except 808s and Heartbreaks)
 
 ## Jazz

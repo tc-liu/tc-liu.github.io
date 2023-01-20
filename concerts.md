@@ -1,0 +1,35 @@
+- Courtney Barnett, Jul 23rd 2019, Omni Space, Beijing
+- Neon Indian, Oct 12th 2019, August Hall, SF
+- Thom Yorke, Oct 18th 2019, Greek Theatre, Berkeley
+- Destroyer, Feb 22nd 2020, August Hall, SF
+- King Crimson, Aug 5th 2021, Concord Pavillion, Concord
+- Tame Impala, Sep 15th 2021, Chase Center, SF
+- James Blake, Sep 19th 2021, Greek Theatre, Berkeley
+- St. Vincent, Sep 23rd 2021, Greek Theatre, Berkeley
+- Japanese Breakfast, Nov 7th 2021, The UC Theatre, Berkeley
+- Turnstile, Feb 22nd 2022, The Regency Ballroom, SF
+- The War On Drugs, Feb 25th 2022, Bill Graham Civic Auditorium, SF
+- Godspeed You! Black Emperor, Mar 4th 2022, The UC Theatre, Berkeley
+- London Symphony Orchestra, Zellerbach Hall, Mar 20th 2022, Berkeley
+- Clairo, Mar 31st 2022, Fox Theater, Oakland
+- Tyler, the Creator, Apr 1st 2022, Oakland Arena, Oakland
+- Black Midi + Injury Reserve, Apr 19th 2022, UC Theater, Berkeley
+- Paul McCartney, May 8th 2022, Oakland Arena, Oakland
+- Roni Size, May 12th 2022, 1015 Folsom, SF
+- Weyes Blood, May 27th 2022, The Ritz, San Jose
+- Halsey, Jun 23rd 2022, Shoreline Amphitheatre, Mountain View
+- Fleet Foxes, Jul 10th 2022, Greek Theatre, Berkeley
+- Destroy Boys, Jul 16th 2022, Great American Music Hall, SF
+- LCD Soundsystem, Aug 22nd 2022, The Warfield, SF
+- This Ain't No Picnic, Aug 27-28th, Brookside at the Rose Bowl, Pasadena
+- Stereolab, Sep 20th 2022, The Fillmore, SF
+- Boris, Sep 21st 2022, Great American Music Hall, SF
+- Roger Waters, Sep 23rd 2022, Chase Center, SF
+- Portola Music Festival, Sep 24-25th, Pier 80, SF
+- Black Midi + Black Country New Road, Sep 27th 2022, The Warfield, SF
+- Magdalena Bay, Oct 28th 2022, The Regency Ballroom, SF
+- Totally Enormous Extinct Dinosaurs, Nov 6th 2022, The Independent, SF
+- The War On Drugs, Feb 25th 2022, Bill Graham Civic Auditorium, SF
+- Arcade Fire, Nov 20th 2022, Bill Graham Civic Auditorium, SF
+- Jockstrap, Dec 16th 2022, Starline Social Club, Oakland
+- The Smile, Nov 4th 2022, Bill Graham Civic Auditorium, SF

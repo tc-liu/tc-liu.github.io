@@ -13,7 +13,8 @@
 - London Symphony Orchestra, Zellerbach Hall, Mar 20th 2022, Berkeley
 - Clairo, Mar 31st 2022, Fox Theater, Oakland
 - Tyler, the Creator, Apr 1st 2022, Oakland Arena, Oakland
-- Black Midi + Injury Reserve, Apr 19th 2022, UC Theater, Berkeley
+- Black Midi + Injury Reserve, Apr 19th 2022, The UC Theater, Berkeley
+- JPEGMAFIA, Apr 29th 2022, Upper Sproul at UC Berkeley, Berkeley
 - Paul McCartney, May 8th 2022, Oakland Arena, Oakland
 - Roni Size, May 12th 2022, 1015 Folsom, SF
 - Weyes Blood, May 27th 2022, The Ritz, San Jose

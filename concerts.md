@@ -28,8 +28,8 @@
 - Portola Music Festival, Sep 24-25th, Pier 80, SF
 - Black Midi + Black Country New Road, Sep 27th 2022, The Warfield, SF
 - Magdalena Bay, Oct 28th 2022, The Regency Ballroom, SF
+- Chromeo (DJ set), Nov 5th 2022, Temple, SF
 - Totally Enormous Extinct Dinosaurs, Nov 6th 2022, The Independent, SF
-- The War On Drugs, Feb 25th 2022, Bill Graham Civic Auditorium, SF
 - Arcade Fire, Nov 20th 2022, Bill Graham Civic Auditorium, SF
 - Jockstrap, Dec 16th 2022, Starline Social Club, Oakland
-- The Smile, Nov 4th 2022, Bill Graham Civic Auditorium, SF
+- The Smile, Dec 6th 2022, Bill Graham Civic Auditorium, SF

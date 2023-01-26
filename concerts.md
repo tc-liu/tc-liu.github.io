@@ -31,6 +31,8 @@
 - Magdalena Bay, Oct 28th 2022, The Regency Ballroom, SF
 - Chromeo (DJ set), Nov 5th 2022, Temple, SF
 - Totally Enormous Extinct Dinosaurs, Nov 6th 2022, The Independent, SF
+- Suede + Manic Street Preachers, Nov 7th 2022, The Warfield, SF
 - Arcade Fire, Nov 20th 2022, Bill Graham Civic Auditorium, SF
 - Jockstrap, Dec 16th 2022, Starline Social Club, Oakland
 - The Smile, Dec 6th 2022, Bill Graham Civic Auditorium, SF
+- Aurora Halal, Jan 7th 2023, Nowadays, Brooklyn

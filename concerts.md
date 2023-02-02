@@ -18,7 +18,7 @@
 - Paul McCartney, May 8th 2022, Oakland Arena, Oakland
 - Roni Size, May 12th 2022, 1015 Folsom, SF
 - Weyes Blood, May 27th 2022, The Ritz, San Jose
-- Halsey, Jun 23rd 2022, Shoreline Amphitheatre, Mountain View
+- Halsey + The Marías, Jun 23rd 2022, Shoreline Amphitheatre, Mountain View
 - Fleet Foxes, Jul 10th 2022, Greek Theatre, Berkeley
 - Destroy Boys, Jul 16th 2022, Great American Music Hall, SF
 - LCD Soundsystem, Aug 22nd 2022, The Warfield, SF

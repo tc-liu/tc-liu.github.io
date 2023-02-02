@@ -33,6 +33,6 @@
 - Totally Enormous Extinct Dinosaurs, Nov 6th 2022, The Independent, SF
 - Suede + Manic Street Preachers, Nov 7th 2022, The Warfield, SF
 - Arcade Fire, Nov 20th 2022, Bill Graham Civic Auditorium, SF
-- Jockstrap, Dec 16th 2022, Starline Social Club, Oakland
-- The Smile, Dec 6th 2022, Bill Graham Civic Auditorium, SF
+- Jockstrap, Dec 6th 2022, Starline Social Club, Oakland
+- The Smile, Dec 18th 2022, Bill Graham Civic Auditorium, SF
 - Aurora Halal, Jan 7th 2023, Nowadays, Brooklyn

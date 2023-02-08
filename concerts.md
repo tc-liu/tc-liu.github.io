@@ -36,3 +36,4 @@
 - Jockstrap, Dec 6th 2022, Starline Social Club, Oakland
 - The Smile, Dec 18th 2022, Bill Graham Civic Auditorium, SF
 - Aurora Halal, Jan 7th 2023, Nowadays, Brooklyn
+- Hessle Audio: Ben Ufo, Pangaea, Pearson Sound, Feb 3rd 2023, The Great Northern, SF

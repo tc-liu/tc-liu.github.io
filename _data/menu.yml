@@ -5,7 +5,7 @@ entries:
         url: fav_albums
       - title: recommendations
         url: album_recs
-      - title: shows i've been to
+      - title: i was there
         url: concerts
   - title: school stuff
     entries:

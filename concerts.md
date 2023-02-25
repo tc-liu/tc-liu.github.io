@@ -37,3 +37,4 @@
 - The Smile, Dec 18th 2022, Bill Graham Civic Auditorium, SF
 - Aurora Halal, Jan 7th 2023, Nowadays, Brooklyn
 - Hessle Audio: Ben Ufo, Pangaea, Pearson Sound, Feb 3rd 2023, The Great Northern, SF
+- Duster + Julie, Feb 24th 2023, The Regency Ballroom, SF

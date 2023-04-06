@@ -69,6 +69,7 @@ I can't really give any insightful recommendations here, my favorites are just t
 
 ### 20s
 - Black Country, New Road - For the first time / Ants From Up There
+- 
 
 ## Electronic
 - Animal Collective - Strawberry Jam
@@ -102,6 +103,7 @@ I can't really give any insightful recommendations here, my favorites are just t
 - John Coltrane - Blue Train / Giant Steps / A Love Supreme
 - Miles Davis - In a Silent Way
 - Stan Getz - Getz/Giberto
+- Ahmad Jamal Trio - The Awakening
 - Charles Mingus - Mingus Ah Um
 - Lee Morgan - The Sidewinder
 - Kamasi Washington - The Epic / Harmony of Difference

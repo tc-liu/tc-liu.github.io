@@ -1,12 +1,12 @@
 entries:
-  - title: music i like
-    entries:
-      - title: favorites
-        url: fav_albums
-      - title: recommendations
-        url: album_recs
-      - title: i was there
-        url: concerts
+  # - title: music i like
+    # entries:
+      # - title: favorites
+      #   url: fav_albums
+      # - title: recommendations
+      #   url: album_recs
+  - title: i was there
+    url: concerts
   - title: school stuff
     entries:
       - title: i <a href="teaching_experiences">teach</a> a lot

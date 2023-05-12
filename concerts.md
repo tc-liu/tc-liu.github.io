@@ -43,3 +43,8 @@
 - Godspeed You! Black Emperor, Mar 15th and 16th 2023, The Chapel, SF
 - Weyes Blood, Mar 26th 2023, The Regency Ballroom, SF
 - 100 Gecs + Machine Girl, Apr 5th 2023, Fox Theater, Oakland
+- Overmono, Apr 14th 2023, 1015 Folsom, SF
+- Hiatus Kayote, Apr 20th 2023, Fox Theater, Oakland
+- Parris + Ploy, Apr 23rd 2023, Public Works, SF
+- Ross From Friends, Apr 29th 2023, Phoenix Hotel, SF
+- Caroline Polachek + Magdalena Bay, May 1st 2023, The Warfield, SF

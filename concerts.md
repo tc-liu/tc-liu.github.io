@@ -48,3 +48,4 @@
 - Parris + Ploy, Apr 23rd 2023, Public Works, SF
 - Ross From Friends, Apr 29th 2023, Phoenix Hotel, SF
 - Caroline Polachek + Magdalena Bay, May 1st 2023, The Warfield, SF
+- Death Grips, May 20th 2023, The Warfield, SF

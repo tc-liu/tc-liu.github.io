@@ -49,3 +49,11 @@
 - Ross From Friends, Apr 29th 2023, Phoenix Hotel, SF
 - Caroline Polachek + Magdalena Bay, May 1st 2023, The Warfield, SF
 - Death Grips, May 20th 2023, The Warfield, SF
+- Farsight + RITCHRD, June 3rd 2023, Underground, SF
+- Have A Nice Life, June 20th 2023, Great American Music Hall, SF
+- Destroy Boys, June 21st 2023, Neck of the Woods, SF
+- Breaka + Batu, July 8th 2023, F8, SF
+- Skream b2b Totaly Enormous Extinct Dinosaurs b2b Sammy Virji b2b INVT, July 22nd 2023, 1015 Folsom, SF
+- Toner + Hotline TNT + They Are Gutting A Body Of Water, August 10th 2023, Great American Music Hall, SF
+- Outside Lands, August 11th 2023, Golden Gate Park, SF
+- Fleet Foxes + My Morning Jacket, Aug 18th 2023, Greek Theatre, Berkeley

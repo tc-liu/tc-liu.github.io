@@ -27,7 +27,7 @@
 - Boris, Sep 21st 2022, Great American Music Hall, SF
 - Roger Waters, Sep 23rd 2022, Chase Center, SF
 - Portola Music Festival, Sep 24-25th, Pier 80, SF
-- Black Midi + Black Country New Road, Sep 27th 2022, The Warfield, SF
+- Black Midi + Black Country, New Road, Sep 27th 2022, The Warfield, SF
 - Magdalena Bay, Oct 28th 2022, The Regency Ballroom, SF
 - Chromeo (DJ set), Nov 5th 2022, Temple, SF
 - Totally Enormous Extinct Dinosaurs, Nov 6th 2022, The Independent, SF
@@ -57,3 +57,20 @@
 - Toner + Hotline TNT + They Are Gutting A Body Of Water, August 10th 2023, Great American Music Hall, SF
 - Outside Lands, August 11th 2023, Golden Gate Park, SF
 - Fleet Foxes + My Morning Jacket, Aug 18th 2023, Greek Theatre, Berkeley
+- Pangaea, Aug 25th 2023, Monarch, Sf
+- Black Country, New Road, Aug 29th 2023, The Regency Ballroom, SF
+- Yaeji, Sep 3rd 2023, 1015 Folsom, SF
+- Flume + Tinashe, Sep 8th 2023, Greek Theatre, Berkeley
+- Swans, Sep 12th 2023, Great American Music Hall, SF
+- Weyes Blood, Sep 27th 2023, The Warfield, SF
+- Jon Hopkins, Sep 29th 2023, Gray Area, SF
+- Portola Music Festival, Sep 30-Oct 1st 2023, Pier 80, SF
+- Sam Gellaitry, Oct 6th 2023, 1015 Folsom, SF
+- Melody's Echo Chamber, Oct 11th 2023, The Independent, SF
+- Slowdive, Oct 12th 2023, The Warfield, SF
+- Ben UFO, Oct 14th 2023, Public Works, SF
+- underscores, Oct 24th 2023, The Independent, SF
+- Joy Orbison, Oct 26th 2023, 1015 Folsom, SF
+- Four Tet, Oct 28th 2023, Cow Palace, Daly City
+- 五条人, Nov 30th 2023, The Regency Ballrom, SF
+- Indigo De Souza, Dec 4th 2023, The Independent, SF

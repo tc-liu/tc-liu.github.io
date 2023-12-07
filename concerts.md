@@ -1,7 +1,7 @@
 - Courtney Barnett, Jul 23rd 2019, Omni Space, Beijing
-- Neon Indian, Oct 12th 2019, August Hall, SF
+- Neon Indian, Oct 12th 2019, Aug Hall, SF
 - Thom Yorke, Oct 18th 2019, Greek Theatre, Berkeley
-- Destroyer, Feb 22nd 2020, August Hall, SF
+- Destroyer, Feb 22nd 2020, Aug Hall, SF
 - King Crimson, Aug 5th 2021, Concord Pavillion, Concord
 - Tame Impala, Sep 15th 2021, Chase Center, SF
 - James Blake, Sep 19th 2021, Greek Theatre, Berkeley
@@ -54,10 +54,10 @@
 - Destroy Boys, June 21st 2023, Neck of the Woods, SF
 - Breaka + Batu, July 8th 2023, F8, SF
 - Skream b2b Totaly Enormous Extinct Dinosaurs b2b Sammy Virji b2b INVT, July 22nd 2023, 1015 Folsom, SF
-- Toner + Hotline TNT + They Are Gutting A Body Of Water, August 10th 2023, Great American Music Hall, SF
-- Outside Lands, August 11th 2023, Golden Gate Park, SF
+- Toner + Hotline TNT + They Are Gutting A Body Of Water, Aug 10th 2023, Great American Music Hall, SF
+- Outside Lands, Aug 11th 2023, Golden Gate Park, SF
 - Fleet Foxes + My Morning Jacket, Aug 18th 2023, Greek Theatre, Berkeley
-- Pangaea, Aug 25th 2023, Monarch, Sf
+- Pangaea, Aug 25th 2023, Monarch, SF
 - Black Country, New Road, Aug 29th 2023, The Regency Ballroom, SF
 - Yaeji, Sep 3rd 2023, 1015 Folsom, SF
 - Flume + Tinashe, Sep 8th 2023, Greek Theatre, Berkeley

@@ -1,3 +1,6 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
 entries:
   # - title: music i like
     # entries:
@@ -7,6 +10,8 @@ entries:
       #   url: album_recs
   - title: i was there
     url: concerts
+  - title: dissecting a frog but the frog lives forever
+    url: jigsaw
   - title: school stuff
     entries:
       # - title: i <a href="teaching_experiences">teach</a> a lot
@@ -17,8 +22,6 @@ entries:
           - title: <a href="cs170">CS 170</a> - Efficient Algorithms and Intractable Problems
             url: cs170
           - title: Math 110 - (Upper Division) Linear Algebra <a href="files/110_Review_Sheet.pdf">Notes</a>
-      - title: UGTCS Sp22 Special Topics in Cryptography reading group
-        url: sp22_crypto
   - title: links 
     entries:
       - title: "微信公众号: jigsawfallingintoplace"

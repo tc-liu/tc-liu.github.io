@@ -1,3 +1,10 @@
+---
+layout: page
+title: concerts
+---
+
+[but i was there:](https://youtu.be/nqww88x584U?si=PsfFhw3ax7Jul3Kh&t=139)
+
 - Courtney Barnett, Jul 23rd 2019, Omni Space, Beijing
 - Neon Indian, Oct 12th 2019, Aug Hall, SF
 - Thom Yorke, Oct 18th 2019, Greek Theatre, Berkeley
